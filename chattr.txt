@@ -1,0 +1,5 @@
+Cmd    : chattr
+Syntax  : chattr +a to add
+          chattr -a to remove 
+Cmd    : sudo 
+Syntax : vim/etc/sudoers
